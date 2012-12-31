@@ -1,8 +1,9 @@
-
 streamback
 ==========
 
 Turn repeatedly called callbacks into streams. Pass a streamback!
+
+[![Build Status](https://travis-ci.org/godmodelabs/streamback.png?branch=master)](https://travis-ci.org/godmodelabs/streamback)
 
 Installation
 ------------
